@@ -1,0 +1,10 @@
+{
+  "permissions": {
+    "allow": [
+      "Read(//Users/asmaaibrahem/Desktop/FYP/**)",
+      "Read(//Users/asmaaibrahem/Desktop/**)",
+      "Bash(python3 -c ' *)",
+      "Bash(python3 *)"
+    ]
+  }
+}
